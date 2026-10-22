@@ -17,8 +17,8 @@ You will then get an email saying you've been added to Claude edu. Go ahead and 
 If you already have a Claude subscription and wish to retain your old chats, do the following:
 1. In your personal account, go to Settings > Privacy > Export Data
 2. You will receive an e-mail from Anthropic with a .json file containing your data.
-3. This .json file contains 4 links, and will look like this
-   <img src="Claude_json_structure.png" width="200" height="300" alt="Alt text">
+3. This .json file contains 4 links, and will look like this \\
+   <img src="Claude_json_structure.png" width="250" height="350" alt="Alt text">
 
 5. Each of these links when opened will automatically download a .zip file with the respective data
 6. Drop these .zip files into your WashU Claude, and it can now access your old chats
