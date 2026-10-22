@@ -23,7 +23,7 @@ If you already have a Claude subscription and wish to retain your old chats, do 
 4. This .json file contains 4 links (`export_url`), and will look like this:  
    <img src="Claude_json_structure.png" width="300" height="400" alt="Alt text">
 
-5. Each of these links when opened will automatically download a .zip file with the respective data
-6. Drop these .zip files into your WashU Claude, and it can now access your old chats
+5. Each of these links when opened will automatically download a .zip file with the respective data (copy and paste `export_url` into a browser or click the links)
+7. Drop these .zip files into your WashU Claude, and it can now access your old chats
 
 **Note:** cancelling your personal Claude account and deleting your personal Claude account are *not* the same thing. Cancelling the subscription leaves your old chats and data intact and allows you access to the free Claude tier, deleting the account removes your personal account completely.
