@@ -13,7 +13,7 @@ After successfully completing this course, you will need to wait a few hours. Yo
 
 You will then get an email saying you've been added to Claude edu. Go ahead and sign in with your WashU credentials - you are now using Claude for free!
 
-**Note for Claude Desktop Users:** If you have an existing Claude account through a personal (non wustl) email and you use Claude Desktop, you will need to log out of this personal account and log back in with your .wustl email in order to access WashU Claude on Desktop. If your existing Claude account is through your .wustl email, you can switch between the two accounts in the lower left-hand corner of the Claude Desktop app.
+**Note for Claude Desktop Users:** If you have an existing Claude account through a personal (non wustl) email and you use Claude Desktop, you will need to log out of this personal account and log back in with your wustl email in order to access WashU Claude on Desktop. If your existing Claude account is through your wustl email, you can switch between the two accounts in the lower left-hand corner of the Claude Desktop app.
 
 ### Porting over Data from Personal to WashU Claude
 If you already have a Claude subscription and wish to retain your old chats, do the following:
