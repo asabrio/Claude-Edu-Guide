@@ -13,14 +13,17 @@ After successfully completing this course, you will need to wait a few hours. Yo
 
 You will then get an email saying you've been added to Claude edu. Go ahead and sign in with your WashU credentials - you are now using Claude for free!
 
+**Note for Claude Desktop Users:** If you have an existing Claude account through a personal (non wustl) email and you use Claude Desktop, you will need to log out of this personal account and log back in with your .wustl email in order to access WashU Claude on Desktop. If your existing Claude account is through your .wustl email, you can switch between the two accounts in the lower left-hand corner of the Claude Desktop app.
+
 ### Porting over Data from Personal to WashU Claude
 If you already have a Claude subscription and wish to retain your old chats, do the following:
 1. In your personal account, go to Settings > Privacy > Export Data
 2. You will receive an e-mail from Anthropic with a .json file containing your data.
-3. This .json file contains 4 links, and will look like this:  
+3. Open this .json file in your favorite viewer (VS Code will do if you have that).
+4. This .json file contains 4 links, and will look like this:  
    <img src="Claude_json_structure.png" width="300" height="400" alt="Alt text">
 
 5. Each of these links when opened will automatically download a .zip file with the respective data
 6. Drop these .zip files into your WashU Claude, and it can now access your old chats
 
-Note: cancelling your personal Claude account and deleting your personal Claude account are *not* the same thing. Cancelling the subscription leaves your old chats and data intact and allows you access to the free Claude tier, deleting the account removes your personal account completely.
+**Note:** cancelling your personal Claude account and deleting your personal Claude account are *not* the same thing. Cancelling the subscription leaves your old chats and data intact and allows you access to the free Claude tier, deleting the account removes your personal account completely.
