@@ -20,7 +20,7 @@ If you already have a Claude subscription and wish to retain your old chats, do 
 1. In your personal account, go to Settings > Privacy > Export Data
 2. You will receive an e-mail from Anthropic with a .json file containing your data.
 3. Open this .json file in a viewer (VS Code will do if you have that).
-4. This .json file contains 4 links, and will look like this:  
+4. This .json file contains 4 links (`export_url`), and will look like this:  
    <img src="Claude_json_structure.png" width="300" height="400" alt="Alt text">
 
 5. Each of these links when opened will automatically download a .zip file with the respective data
