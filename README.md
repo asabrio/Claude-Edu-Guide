@@ -6,8 +6,8 @@ WashU will pay for your Claude subscription. Here is a quick guide that covers h
 2. Whatever you do in WashU's enterprise account **will not be included in Claude's training data going forward.**
    
 ### To Enroll:
-For more information, go to this link: [Clickable Text](https://it.washu.edu/claude-for-education/#newusers) 
-You must first complete a Canvas module that deals with AI literacy. The link is on the page above ("AI Literacy Canvas Module"), or you can follow this link to enroll: [Clickable Text](https://wustl.instructure.com/enroll/TLC4NB)
+For more information, go to this link: [WashU Claude Information](https://it.washu.edu/claude-for-education/#newusers) 
+You must first complete a Canvas module that deals with AI literacy. The link is on the page above ("AI Literacy Canvas Module"), or you can follow this link to enroll: [Canvas AI Literacy Course](https://wustl.instructure.com/enroll/TLC4NB)
 
 After successfully completing this course, you will need to wait a few hours. You will then get an e-mail welcoming you to WashU Claude Edu. You must accept the responsible use acknowledgement. 
 
